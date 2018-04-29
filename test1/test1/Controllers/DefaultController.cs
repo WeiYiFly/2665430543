@@ -22,5 +22,9 @@ namespace test1.Controllers
         {
 
         }
+        public void conn2()
+        {
+            
+        }
     }
 }
